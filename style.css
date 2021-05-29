@@ -1,0 +1,21 @@
+*{
+    border: solid;
+}
+/* .indexbody{
+    background-color:#f7a399 ;
+} */
+.header{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.projectbody{
+
+background-color: #aaf683;
+}
